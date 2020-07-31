@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decimo", "Decimo\Decimo.csproj", "{B7B7DCD7-54C1-4718-B40A-9F5474FEDBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B7DCD7-54C1-4718-B40A-9F5474FEDBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B7DCD7-54C1-4718-B40A-9F5474FEDBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B7DCD7-54C1-4718-B40A-9F5474FEDBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B7DCD7-54C1-4718-B40A-9F5474FEDBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E995E115-B56E-4AA0-94B4-60DE246AF3FD}
+	EndGlobalSection
+EndGlobal
